@@ -3,8 +3,6 @@
     color:black;
     background-color:aqua;
 }
-:root,#first,#second{
-}
 #first{
     display: flex;
     justify-content:space-around;
